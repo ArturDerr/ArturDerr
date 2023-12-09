@@ -1,7 +1,5 @@
 ![your_cool_intro](https://github.com/ArturDerr/ArturDerr/assets/121032931/09990c43-8c87-4bbc-88dd-2a5b7232ca3e)
 
-![Без названия](https://github.com/ArturDerr/ArturDerr/assets/121032931/8106a74a-3b1a-49d6-8c3e-dc2f724f4c31)
-
 - 🔭 I’m currently working on <div>  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> </div>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
