@@ -1,3 +1,4 @@
+![your_cool_intro](https://github.com/ArturDerr/ArturDerr/assets/121032931/09990c43-8c87-4bbc-88dd-2a5b7232ca3e)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F70000&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B" alt="Typing SVG" /></a>
