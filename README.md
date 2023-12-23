@@ -1,1 +1,2 @@
-![your_cool_intro (1)](https://github.com/ArturDerr/ArturDerr/assets/121032931/e56bf684-38ed-4dda-8ac5-30013b1eb43d)
+
+![ezgif-5-06000f5789](https://github.com/ArturDerr/ArturDerr/assets/121032931/1b465ad2-a031-468b-964d-7d8183eeff36)
